@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/seasonjs/hf-hub/api"
+	"github.com/ant-arch/hf-hub/api"
 )
 
 func main() {

@@ -4,7 +4,7 @@
 package api_test
 
 import (
-	"github.com/seasonjs/hf-hub/api"
+	"github.com/ant-arch/hf-hub/api"
 	"io"
 	"os"
 	"strings"
